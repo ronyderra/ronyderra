@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rony
 
 I am a full-stack software engineer specializing in blockchain technology,<br />
-you can find in my repo smart contracts, decentralized applications and ongoing projects.<br />
+you can find in my repository smart contracts, decentralized applications and ongoing projects.<br />
 Hope you find somthing useful! :pray:<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyderra&show_icons=true&count_private=true&hide=contribs)
