@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rony
 
-I am a full-stack software engineer and entrepreneur with experience in large-scale web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
-
-In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
+I am a full-stack software engineer specializing in blockchain technology,<br />
+you can find in my repo smart contracts, decentralized applications and ongoing projects.<br />
+Hope you find somthing useful! :pray:<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyderra&show_icons=true&count_private=true&hide=contribs)
 
