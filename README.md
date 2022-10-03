@@ -4,8 +4,8 @@ I am a full-stack software engineer and entrepreneur with experience in large-sc
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hagopj13&show_icons=true&count_private=true&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyderra&show_icons=true&count_private=true&hide=contribs)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hagopj13)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ronyderra)
 
-![Profile views](https://gpvc.arturio.dev/hagopj13)
+![Profile views](https://gpvc.arturio.dev/ronyderra)
